@@ -1,1 +1,2 @@
-# OpenWeatherMap
+# Open Weather Map
+This Java-based project integrates with the OpenWeatherMap API to fetch and display real-time weather information for any city entered by the user. It uses HTTP requests to retrieve JSON data from the API and parses the response to present details such as temperature, humidity, weather conditions, and wind speed. The project includes a user-friendly GUI (using Swing or JavaFX) or a simple command-line interface, depending on the implementation.
